@@ -12,11 +12,11 @@ node: 16.6.1
 tsc: 4.0.5
 
 ## Pre
-1. install node
-2. install docker & docker-compose
-3. install pnpm
+1. `install node`
+2. `install docker & docker-compose`
+3. `install pnpm`
 
 ## Start
-1. run docker-compose up -d
-2. run pnpm i & pnpm db:m:u
-3. run pnpm start
+1. `run docker-compose up -d`
+2. `run pnpm i & pnpm db:m:u`
+3. `run pnpm start`
